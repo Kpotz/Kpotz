@@ -13,19 +13,22 @@
 <h5> Actual Stack</h5>
 
 <h6> Backend </h6>
-<img src="https://img.shields.io/static/v1?label=Grails&color=brightgreen&style=for-the-badge&logo=Apache Groovy&message=>=4&link=https://grails.org">
-<img src="https://img.shields.io/static/v1?label=MySQL&color=brightgreen&style=for-the-badge&logo=MySQL&message=>=5&link=https://www.mysql.com">
-
+<p align="left"> 
+  <img src="https://img.shields.io/static/v1?label=Grails&color=brightgreen&style=for-the-badge&logo=Apache Groovy&message=>=4&cacheSeconds=maxAge"/>
+  <img src="https://img.shields.io/static/v1?label=MySQL&color=brightgreen&style=for-the-badge&logo=MySQL&message=>5&cacheSeconds=maxAge"/>
+</p>
 <h6> Frontend </h6>
-<img src="https://img.shields.io/static/v1?label=JavaScript&color=yellow&style=for-the-badge&logo=JavaScript&message=>=ES5">
-<img src="https://img.shields.io/static/v1?label=HTML&color=orange&style=for-the-badge&logo=html5&message=v5">
-<img src="https://img.shields.io/static/v1?label=CSS&color=blue&style=for-the-badge&logo=css3&logoColor=blue&message=v3">
-<img src="https://img.shields.io/static/v1?label=jQuery&color=blue&style=for-the-badge&logo=jquery&message=>3&https://jquery.com">
-
+<p align="left"> 
+  <img src="https://img.shields.io/static/v1?label=JavaScript&color=yellow&style=for-the-badge&logo=JavaScript&message=>=ES5&cacheSeconds=maxAge"/>
+  <img src="https://img.shields.io/static/v1?label=HTML&color=orange&style=for-the-badge&logo=html5&message=v5&cacheSeconds=maxAge"/>
+  <img src="https://img.shields.io/static/v1?label=CSS&color=blue&style=for-the-badge&logo=css3&logoColor=blue&message=v3&cacheSeconds=maxAge"/>
+  <img src="https://img.shields.io/static/v1?label=jQuery&color=blue&style=for-the-badge&logo=jquery&message=>3&cacheSeconds=maxAge"/>
+</p>
 <h6> Other Skills </h6>
-<img src="https://img.shields.io/static/v1?label=IntelliJ&color=violet&style=for-the-badge&logo=IntelliJ IDEA&message=>=17">
-<img src="https://img.shields.io/static/v1?label=GitHub&color=orange&style=for-the-badge&logo=Github&message=any">
-<img src="https://img.shields.io/static/v1?label=Insomnia&color=blue&style=for-the-badge&logo=insomnia&message=>=2022">
-<img src="https://img.shields.io/static/v1?label=JMeter&color=blue&style=for-the-badge&logo=Apache JMeter&message=>5&https://jquery.com">
-
+<p align="left"> 
+  <img src="https://img.shields.io/static/v1?label=IntelliJ&color=violet&style=for-the-badge&logo=IntelliJ IDEA&message=>=17&cacheSeconds=maxAge"/>
+  <img src="https://img.shields.io/static/v1?label=GitHub&color=orange&style=for-the-badge&logo=Github&message=any&cacheSeconds=maxAge"/>
+  <img src="https://img.shields.io/static/v1?label=Insomnia&color=blue&style=for-the-badge&logo=insomnia&message=>=2022&cacheSeconds=maxAge"/>
+  <img src="https://img.shields.io/static/v1?label=JMeter&color=blue&style=for-the-badge&logo=Apache JMeter&message=>5&cacheSeconds=maxAge"/>
+</p>
 
