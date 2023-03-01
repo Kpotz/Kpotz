@@ -30,5 +30,7 @@
   <img src="https://img.shields.io/static/v1?label=GitHub&color=orange&style=for-the-badge&logo=Github&message=any&cacheSeconds=maxAge"/>
   <img src="https://img.shields.io/static/v1?label=Insomnia&color=blue&style=for-the-badge&logo=insomnia&message=%3E%3D2022&cacheSeconds=maxAge"/>
   <img src="https://img.shields.io/static/v1?label=JMeter&color=blue&style=for-the-badge&logo=Apache JMeter&message=%3E5&cacheSeconds=maxAge"/>
+  <img src="https://img.shields.io/static/v1?label=MacOS&color=blue&style=for-the-badge&logo=macos&message=%3E%3D10&cacheSeconds=maxAge"/>
+  <img src="https://img.shields.io/static/v1?label=Ubuntu&color=blue&style=for-the-badge&logo=linux&message=%3E%3D20&cacheSeconds=maxAge"/>
 </p>
 
