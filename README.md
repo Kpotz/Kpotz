@@ -10,27 +10,3 @@
 
 ---------------------
 
-<h5> Actual Stack</h5>
-
-<h6> Backend </h6>
-<p align="left"> 
-  <img src="https://img.shields.io/static/v1?label=Grails&color=brightgreen&style=for-the-badge&logo=Apache Groovy&message=%3E%3D4&cacheSeconds=maxAge"/>
-  <img src="https://img.shields.io/static/v1?label=mysql&color=brightgreen&style=for-the-badge&logo=mysql&message=%3E5&cacheSeconds=maxAge"/>
-</p>
-<h6> Frontend </h6>
-<p align="left"> 
-  <img src="https://img.shields.io/static/v1?label=JavaScript&color=yellow&style=for-the-badge&logo=JavaScript&message=%3E%3DES5&cacheSeconds=maxAge"/>
-  <img src="https://img.shields.io/static/v1?label=HTML&color=orange&style=for-the-badge&logo=html5&message=v5&cacheSeconds=maxAge"/>
-  <img src="https://img.shields.io/static/v1?label=CSS&color=blue&style=for-the-badge&logo=css3&logoColor=blue&message=v3&cacheSeconds=maxAge"/>
-  <img src="https://img.shields.io/static/v1?label=jQuery&color=blue&style=for-the-badge&logo=jquery&message=%3E3&cacheSeconds=maxAge"/>
-</p>
-<h6> Other Skills </h6>
-<p align="left"> 
-  <img src="https://img.shields.io/static/v1?label=IntelliJ&color=violet&style=for-the-badge&logo=IntelliJ IDEA&message=%3E%3D17&cacheSeconds=maxAge"/>
-  <img src="https://img.shields.io/static/v1?label=git&color=orange&style=for-the-badge&logo=git&message=%3E%32&cacheSeconds=maxAge"/>
-  <img src="https://img.shields.io/static/v1?label=Insomnia&color=purple&style=for-the-badge&logo=insomnia&logoColor=purple&message=%3E%3D2022&cacheSeconds=maxAge"/>
-  <img src="https://img.shields.io/static/v1?label=JMeter&color=blue&style=for-the-badge&logo=Apache JMeter&message=%3E5&cacheSeconds=maxAge"/>
-  <img src="https://img.shields.io/static/v1?label=MacOS&color=white&style=for-the-badge&logo=macos&message=%3E%3D10&cacheSeconds=maxAge"/>
-  <img src="https://img.shields.io/static/v1?label=Ubuntu&color=yellow&style=for-the-badge&logo=linux&message=%3E%3D20&cacheSeconds=maxAge"/>
-</p>
-
